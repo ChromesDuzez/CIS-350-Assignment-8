@@ -1,7 +1,7 @@
 ﻿/* 
  * Zach Wilson
  * Assignment 8
- * This script manages the game states
+ * This script manages the difficulty buttons
 */
 
 using System.Collections;

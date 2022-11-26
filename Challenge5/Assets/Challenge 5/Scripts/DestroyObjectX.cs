@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/* 
+ * Zach Wilson
+ * Assignment 8
+ * This script manages the destruction of partilces
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
